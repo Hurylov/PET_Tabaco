@@ -1,0 +1,141 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+        background-color: #0C222F;
+        background-image: url(./img/wepik-export-20230611094823b9Kv\ 1.png);
+            background-repeat: no-repeat;
+            background-size: cover;
+            width: 1440px;
+            height: 1080px;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+ 
+
+ .header__logo {
+     padding-top: 24px;
+     padding-left: 135px;
+ }
+
+ .header__link-area {
+     padding: 15px 0;
+ }
+
+ .header {
+     position: relative;
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     min-width: 320px;
+ }
+
+
+.vector{
+    position: absolute;
+        width: 1500px;
+        height: 0px;
+        left: 405px;
+        top: 105px;
+    
+        border: 2px solid #E4E2DD;
+        transform: rotate(0.01deg);
+}
+
+.section {
+    padding: 60px 0;
+}
+
+.title {
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 1.18;
+    text-align: center;
+}
+
+
+
+
+.page-header {
+    position: fixed;
+    top: 24px;
+    z-index: 1;
+    width: 1440px;
+    background-color: #0C222F;
+    display: flex;
+}
+
+
+.page-header__container {
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+
+
+
+.site-nav {
+        display: flex;
+        gap: 50px;
+        list-style: none;
+    }
+
+
+.site-nav__item {
+            margin-bottom: 32px;
+        }
+
+.site-nav__link {
+width: 86px;
+    height: 28px;
+    left: 435px;
+    top: 49px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 28px;
+    color: #E4E2DD;
+    text-decoration: none;
+}
+
+.hero {
+        width: 1440px;
+        
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+            text-align: center;
+    }
+
+
+
+.hero__title {
+    color: white;
+        font-family: 'Josefin Sans', sans-serif;
+        font-size: 25px;
+        font-weight: 400;
+        line-height: 30px;
+        letter-spacing: 0em;
+        text-align: left;
+        padding-top: 190px;
+        padding-left: 480px;
+    }
+
+    .menu{
+        padding-left: 83px;
+        padding-top: 49px;
+    }
+    
+
+.main-page{
+position: absolute;
+    left: 0px;
+    top: 0px;
+}

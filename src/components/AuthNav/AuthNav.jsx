@@ -6,10 +6,10 @@ export const AuthNav = () => {
   return (
     <AuthNavCss>
       <li>
-        <NavLink href="/login"> Log IN  </NavLink>
+        <NavLink href="/register">Реєстрація</NavLink>
       </li>
       <li>
-        <NavLink href="/register"> Register </NavLink>
+        <NavLink href="/login"> Увійти </NavLink>
       </li>
     </AuthNavCss>
   );

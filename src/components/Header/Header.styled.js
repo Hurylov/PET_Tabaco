@@ -28,7 +28,7 @@ export const SiteNav = styled.ul`
   gap: 50px;
   list-style: none;
   padding-left: 60px;
-  margin-bottom: -50px;
+  margin-bottom: -60px;
 `;
 
 export const SiteNavItem = styled.li`

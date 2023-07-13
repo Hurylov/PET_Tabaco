@@ -36,10 +36,10 @@ export const Header = () => {
             </SiteNavItem>
           </SiteNav>
           <AuthNavContainer>
-            <AuthNav />
+            <AuthNav/>
             </AuthNavContainer>
         </nav>
-        <img className="vector" src={vector} alt="vector" width={1100}/>
+        <img className="vector" src={vector} alt="vector" width={1280}/>
       </MenuContainer>
     </HeaderContainer>
     

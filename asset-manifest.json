@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/PET_Tabaco/static/css/main.a68f04ea.css",
-    "main.js": "/PET_Tabaco/static/js/main.79346679.js",
-    "static/media/background.png": "/PET_Tabaco/static/media/background.6c8acd1664300bad9d8e.png",
-    "index.html": "/PET_Tabaco/index.html",
-    "static/media/Vector 1.svg": "/PET_Tabaco/static/media/Vector 1.6dc3706e5804fb3047ab4f662f5104ad.svg",
-    "main.a68f04ea.css.map": "/PET_Tabaco/static/css/main.a68f04ea.css.map",
-    "main.79346679.js.map": "/PET_Tabaco/static/js/main.79346679.js.map"
+    "main.css": "/static/css/main.b32ba429.css",
+    "main.js": "/static/js/main.878d4301.js",
+    "static/media/background.png": "/static/media/background.6c8acd1664300bad9d8e.png",
+    "index.html": "/index.html",
+    "static/media/Vector 1.svg": "/static/media/Vector 1.6dc3706e5804fb3047ab4f662f5104ad.svg",
+    "main.b32ba429.css.map": "/static/css/main.b32ba429.css.map",
+    "main.878d4301.js.map": "/static/js/main.878d4301.js.map"
   },
   "entrypoints": [
-    "static/css/main.a68f04ea.css",
-    "static/js/main.79346679.js"
+    "static/css/main.b32ba429.css",
+    "static/js/main.878d4301.js"
   ]
 }

@@ -2,7 +2,7 @@
   "name": "/",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://hurylov.github.io/",
+  "homepage": "https://hurylov.github.io/PET_Tabaco",
   "dependencies": {
     "@emotion/styled": "^11.11.0",
     "@reduxjs/toolkit": "^1.9.5",

@@ -2,7 +2,7 @@
 import { AuthNav } from 'components/AuthNav/AuthNav';
 
 import { Goods } from 'components/Goods/Goods';
-import { Header } from 'components/Header/Header';
+
 import { Layout } from 'components/Layout/Layout';
 import { HomePage } from 'pages/HomePage/HomePage';
 
@@ -15,12 +15,12 @@ import { Routes, Route } from 'react-router-dom';
 
 
 function App() {
-  const [ arr , setArr] = useState ([])
+  
   return (
   <Routes>
       <Route path="/" element={<Layout />}>
         <Route index element={<HomePage />} />
-        <Route path="/goods" element={<Goods que={arr} />} />
+        {/* <Route path="/goods" element={<Goods />} /> */}
         <Route path="/auth" element={<AuthNav/>} />
         {/* <Route path="/authorization" element={<Authorization />} /> */}
         {/* <Route path="*" element={<NotFound />} /> */}

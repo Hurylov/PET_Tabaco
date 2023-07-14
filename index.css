@@ -1,5 +1,5 @@
 @import-normalize;
-
+/* 
 html {
     scroll-behavior: smooth;
 }
@@ -122,4 +122,4 @@ body {
 
 .card-set__link {}
 
-.card {}
+.card {} */

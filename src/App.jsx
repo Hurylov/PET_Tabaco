@@ -1,7 +1,7 @@
 
 import { AuthNav } from 'components/AuthNav/AuthNav';
 
-// import { Goods } from 'components/Goods/Goods';
+import { Goods } from 'components/Goods/Goods';
 
 import { Layout } from 'components/Layout/Layout';
 import { HomePage } from 'pages/HomePage/HomePage';
@@ -18,7 +18,7 @@ function App() {
   <Routes>
       <Route path="/" element={<Layout />}>
         <Route index element={<HomePage />} />
-        {/* <Route path="/goods" element={<Goods />} /> */}
+        <Route path="/goods" element={<Goods />} />
         <Route path="/auth" element={<AuthNav/>} />
         {/* <Route path="/authorization" element={<Authorization />} /> */}
         {/* <Route path="*" element={<NotFound />} /> */}

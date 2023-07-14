@@ -1,5 +1,4 @@
-@modern-normalize
-
+@import-normalize;
 
 html {
     scroll-behavior: smooth;

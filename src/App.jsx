@@ -1,6 +1,6 @@
 
 import { AuthNav } from 'components/AuthNav/AuthNav';
-
+import { styled } from 'styled-components';
 // import { Goods } from 'components/Goods/Goods';
 
 import { Layout } from 'components/Layout/Layout';

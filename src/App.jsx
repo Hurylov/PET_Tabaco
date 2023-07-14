@@ -1,13 +1,11 @@
 
 import { AuthNav } from 'components/AuthNav/AuthNav';
 
-import { Goods } from 'components/Goods/Goods';
+// import { Goods } from 'components/Goods/Goods';
 
 import { Layout } from 'components/Layout/Layout';
 import { HomePage } from 'pages/HomePage/HomePage';
 
-
-import React, { useState } from 'react';
 import { Routes, Route } from 'react-router-dom';
 // import Header from './components/Header/Header';
 // import Home from './pages/HomePage/HomePage';

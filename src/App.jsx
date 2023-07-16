@@ -8,7 +8,7 @@ import { Routes, Route } from 'react-router-dom';
 // import Goods from './components/Goods/Goods';
 
 
-function App() {
+export const App = () => {
   
   return (
   <Routes>
@@ -30,4 +30,3 @@ function App() {
   );
 }
 
-export default App;

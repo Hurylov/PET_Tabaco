@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/PET_Tabaco/static/css/main.c0502f68.css",
+    "main.css": "/PET_Tabaco/static/css/main.a68f04ea.css",
     "main.js": "/PET_Tabaco/static/js/main.a20aaf3a.js",
     "static/media/background.png": "/PET_Tabaco/static/media/background.6c8acd1664300bad9d8e.png",
-    "static/media/goods.png": "/PET_Tabaco/static/media/goods.91ffe903b4ac46d70602.png",
     "index.html": "/PET_Tabaco/index.html",
     "static/media/Vector 1.svg": "/PET_Tabaco/static/media/Vector 1.6dc3706e5804fb3047ab4f662f5104ad.svg",
-    "main.c0502f68.css.map": "/PET_Tabaco/static/css/main.c0502f68.css.map",
+    "main.a68f04ea.css.map": "/PET_Tabaco/static/css/main.a68f04ea.css.map",
     "main.a20aaf3a.js.map": "/PET_Tabaco/static/js/main.a20aaf3a.js.map"
   },
   "entrypoints": [
-    "static/css/main.c0502f68.css",
+    "static/css/main.a68f04ea.css",
     "static/js/main.a20aaf3a.js"
   ]
 }

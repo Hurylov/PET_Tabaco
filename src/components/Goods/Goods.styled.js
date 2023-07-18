@@ -25,5 +25,5 @@ export const CardSetLink = styled.a`
 `;
 
 export const Card = styled.div`
-  /* Стилі для карточки товару */
+  background-image: url(./img/goods.png/)
 `;

@@ -62,7 +62,7 @@ html {
 
 body {
     background-color: #0C222F;
-    background-image: url(./components/img/background.png);
+    background-image: url(./img/background.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -70,7 +70,7 @@ body {
 .logo-thumb{
     padding-top: 166px;
         padding-left: 221px;
-        background-image: url(./components/img/logo-tabaco.svg);
+        background-image: url(./img/logo-tabaco.png);
         margin-left: 20px;
 }
 
@@ -178,4 +178,6 @@ body {
 
 .card-set__link {}
 
-.card {}
+.card {
+    background-image: url(./img/goods.png)
+}

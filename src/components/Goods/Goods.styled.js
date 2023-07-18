@@ -25,5 +25,5 @@ export const CardSetLink = styled.a`
 `;
 
 export const Card = styled.div`
-  background-image: url(./img/goods.png/)
+  background-image: url(.src/img/goods.png/)
 `;
